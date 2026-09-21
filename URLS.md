@@ -23,5 +23,5 @@ After publish, update the constants below (currently `example.com` placeholders)
 ## Notes
 
 - FrameMatch and PawRx do not currently define an `eulaUrl` constant; LeaseLens already links Apple’s Standard EULA on paywall/settings.
-- Contact email used in HTML: `legal@kalebapps.com` — **CONTACT_EMAIL_TO_CONFIRM** (no better email found under `/workspace/apps`).
+- Contact email used in HTML: `kmeckhoff81@gmail.com` — **Contact email confirmed: kmeckhoff81@gmail.com
 - Governing law in Terms: State of Illinois — **GOVERNING_LAW_TO_CONFIRM**.
