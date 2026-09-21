@@ -23,5 +23,7 @@ After publish, update the constants below (currently `example.com` placeholders)
 ## Notes
 
 - FrameMatch and PawRx do not currently define an `eulaUrl` constant; LeaseLens already links Apple’s Standard EULA on paywall/settings.
-- Contact email used in HTML: `kmeckhoff81@gmail.com` — **Contact email confirmed: kmeckhoff81@gmail.com
+- Contact email used in HTML: `kmeckhoff81@gmail.com` — **CONTACT_EMAIL_TO_CONFIRM** (no better email found under `/workspace/apps`).
 - Governing law in Terms: State of Missouri — **Governing law confirmed: Missouri**.
+
+| All apps | Refund Policy | https://nighthawk455.github.io/app-legal/refunds.html | Link from Terms / Settings / paywall (optional constant) | — |
