@@ -13,8 +13,8 @@ After publish, update the constants below (currently `example.com` placeholders)
 | LeaseLens | Privacy Policy | https://nighthawk455.github.io/app-legal/leaselens/privacy.html | `AppConstants.privacyPolicyUrl` | `apps/LeaseLens/lib/core/constants/app_constants.dart` |
 | LeaseLens | Terms of Use | https://nighthawk455.github.io/app-legal/leaselens/terms.html | `AppConstants.termsOfUseUrl` | `apps/LeaseLens/lib/core/constants/app_constants.dart` |
 | LeaseLens | Apple Standard EULA | https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ | `AppConstants.eulaUrl` | `apps/LeaseLens/lib/core/constants/app_constants.dart` |
-| PawRx | Privacy Policy | https://nighthawk455.github.io/app-legal/pawrx/privacy.html | `BillingConstants.privacyPolicyUrl` | `apps/PawRx/lib/billing/billing_constants.dart` |
-| PawRx | Terms of Use | https://nighthawk455.github.io/app-legal/pawrx/terms.html | `BillingConstants.termsOfUseUrl` | `apps/PawRx/lib/billing/billing_constants.dart` |
+| FurDose | Privacy Policy | https://nighthawk455.github.io/app-legal/pawrx/privacy.html | `BillingConstants.privacyPolicyUrl` | `apps/PawRx/lib/billing/billing_constants.dart` |
+| FurDose | Terms of Use | https://nighthawk455.github.io/app-legal/pawrx/terms.html | `BillingConstants.termsOfUseUrl` | `apps/PawRx/lib/billing/billing_constants.dart` |
 
 ## Index
 
@@ -22,7 +22,7 @@ After publish, update the constants below (currently `example.com` placeholders)
 
 ## Notes
 
-- FrameMatch and PawRx do not currently define an `eulaUrl` constant; LeaseLens already links Apple’s Standard EULA on paywall/settings.
+- FrameMatch and FurDose do not currently define an `eulaUrl` constant; LeaseLens already links Apple’s Standard EULA on paywall/settings.
 - Contact email used in HTML: `kmeckhoff81@gmail.com` — **CONTACT_EMAIL_TO_CONFIRM** (no better email found under `/workspace/apps`).
 - Governing law in Terms: State of Missouri — **Governing law confirmed: Missouri**.
 

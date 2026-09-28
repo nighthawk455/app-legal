@@ -13,7 +13,7 @@ Apple’s Standard Licensed Application End User License Agreement satisfies the
 Continue hosting and linking each app’s custom **Terms of Use** (and Privacy Policy) for app-specific disclaimers:
 
 - LeaseLens — not legal advice / educational only
-- PawRx — not veterinary advice; not for emergencies
+- FurDose — not veterinary advice; not for emergencies
 - FrameMatch — personal progress photos; not professional medical/fitness advice
 
 The Standard EULA covers Apple’s baseline licensed-application terms; it does **not** replace those product-specific disclaimers.

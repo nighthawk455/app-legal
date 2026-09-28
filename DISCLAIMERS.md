@@ -8,9 +8,9 @@ Confirmed short strings for hardcoding in app UI (Settings, results, onboarding,
 
 LeaseLens highlights common lease patterns for educational purposes. It is not legal advice. Laws vary by jurisdiction — consult a qualified attorney before you sign or rely on any analysis.
 
-## PawRx
+## FurDose (formerly PawRx)
 
-PawRx is a reminder and tracking tool only. It is not veterinary advice, not a dosage calculator, and not for diagnosis or treatment. Always follow your veterinarian’s instructions. Not for emergencies.
+FurDose is a reminder and tracking tool only. It is not veterinary advice, not a dosage calculator, and not for diagnosis or treatment. Always follow your veterinarian’s instructions. Not for emergencies.
 
 ## FrameMatch
 
